@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1625116000,
-    'checksum' => '4e30991d5875821f69d0b793d6da3daa',
+    'timestamp' => 1625187448,
+    'checksum' => 'c57c3f925579a748b563b02344a25101',
     'files' => [
         'user/config' => [
             'media' => [
@@ -27,11 +27,11 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1625115565
+                'modified' => 1625187445
             ],
             'themes/typhoon' => [
                 'file' => 'user/config/themes/typhoon.yaml',
-                'modified' => 1625116000
+                'modified' => 1625183681
             ],
             'versions' => [
                 'file' => 'user/config/versions.yaml',
@@ -210,7 +210,7 @@ return [
                     'display' => false,
                     'overlay' => 'dark',
                     'overlay_direction' => 'right',
-                    'alignment' => 'right',
+                    'alignment' => 'center',
                     'image' => 'theme://images/headers/sea-and-sky.jpg',
                     'custom' => '#3C4043',
                     'padding' => 'pt-32 md:pt-40 lg:pt-48 xl:pt-56 pb-16 md:pb-20 lg:pb-24 xl:pb-32',

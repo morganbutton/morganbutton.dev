@@ -238,6 +238,6 @@ class __TwigTemplate_6f776ac54594a5bd8a84709dbd06e6c869245f782e674154cc9436b8a3d
         </div>
     </nav>
 {% endif %}
-", "partials/nav.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\nav.html.twig");
+", "partials/nav.html.twig", "C:\\wamp64\\www\\moDev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\nav.html.twig");
     }
 }

@@ -75,6 +75,6 @@ class __TwigTemplate_b64808e51f86aff2f929780e06b6bbee175b1bd2a997de244c3950b2f9a
     <i class=\"fa fa-cog\"></i> {{ 'PLUGIN_ADMIN.CONFIGURATION'|tu }}
 </a>
 {% endif %}
-", "flex-objects/types/default/buttons/configuration.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\plugins\\flex-objects\\admin\\templates\\flex-objects\\types\\default\\buttons\\configuration.html.twig");
+", "flex-objects/types/default/buttons/configuration.html.twig", "C:\\wamp64\\www\\moDev\\user\\plugins\\flex-objects\\admin\\templates\\flex-objects\\types\\default\\buttons\\configuration.html.twig");
     }
 }

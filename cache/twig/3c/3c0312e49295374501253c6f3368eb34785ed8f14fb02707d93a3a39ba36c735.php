@@ -164,6 +164,6 @@ class __TwigTemplate_a24153e4903f85d89adccc6500509f131fde970241887b24a1730e4a3b5
     {{ nonce_field('admin-form', 'admin-nonce')|raw }}
 
 </form>
-", "partials/blueprints-new.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\blueprints-new.html.twig");
+", "partials/blueprints-new.html.twig", "C:\\wamp64\\www\\moDev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\blueprints-new.html.twig");
     }
 }

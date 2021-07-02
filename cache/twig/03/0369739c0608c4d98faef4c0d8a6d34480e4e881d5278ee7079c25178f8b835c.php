@@ -64,6 +64,6 @@ class __TwigTemplate_c971389eecf67b47bfdaf6f4174d7219126a4c96c795510ab5fec312b37
     {
         return new Source("{% set favicon_path = favicon_file ? (favicon_file|first).path : 'theme://images/favicon.png' %}
 <link rel=\"icon\" type=\"{{ get_mime_type(favicon_path) }}\" href=\"{{ url(favicon_path) }}\"/>
-", "partials/favicon.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\themes\\typhoon\\templates\\partials\\favicon.html.twig");
+", "partials/favicon.html.twig", "C:\\wamp64\\www\\moDev\\user\\themes\\typhoon\\templates\\partials\\favicon.html.twig");
     }
 }

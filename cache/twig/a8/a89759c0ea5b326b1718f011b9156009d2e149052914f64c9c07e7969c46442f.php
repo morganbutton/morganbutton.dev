@@ -168,6 +168,6 @@ class __TwigTemplate_45c7ff1b96a4b2ff7da7432489ac78aff6fc61589982ff988cfdfc2a986
 
   </div>
 </article>
-", "partials/post-item.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\themes\\typhoon\\templates\\partials\\post-item.html.twig");
+", "partials/post-item.html.twig", "C:\\wamp64\\www\\moDev\\user\\themes\\typhoon\\templates\\partials\\post-item.html.twig");
     }
 }

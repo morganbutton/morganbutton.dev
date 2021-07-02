@@ -78,7 +78,7 @@ class __TwigTemplate_c694d4d84ca35b269b6e9d4822e600648ca8749897dfeb4fc90f7731171
         echo "
   ";
         // line 21
-        $this->loadTemplate("blog.html.twig", "blog.html.twig", 21, "1820257304")->display($context);
+        $this->loadTemplate("blog.html.twig", "blog.html.twig", 21, "1116701279")->display($context);
         // line 44
         echo "
 ";
@@ -154,13 +154,13 @@ class __TwigTemplate_c694d4d84ca35b269b6e9d4822e600648ca8749897dfeb4fc90f7731171
   {% endembed %}
 
 {% endblock %}
-", "blog.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\themes\\typhoon\\templates\\blog.html.twig");
+", "blog.html.twig", "C:\\wamp64\\www\\moDev\\user\\themes\\typhoon\\templates\\blog.html.twig");
     }
 }
 
 
 /* blog.html.twig */
-class __TwigTemplate_c694d4d84ca35b269b6e9d4822e600648ca8749897dfeb4fc90f7731171a233c___1820257304 extends \Twig\Template
+class __TwigTemplate_c694d4d84ca35b269b6e9d4822e600648ca8749897dfeb4fc90f7731171a233c___1116701279 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {
@@ -325,6 +325,6 @@ class __TwigTemplate_c694d4d84ca35b269b6e9d4822e600648ca8749897dfeb4fc90f7731171
   {% endembed %}
 
 {% endblock %}
-", "blog.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\themes\\typhoon\\templates\\blog.html.twig");
+", "blog.html.twig", "C:\\wamp64\\www\\moDev\\user\\themes\\typhoon\\templates\\blog.html.twig");
     }
 }

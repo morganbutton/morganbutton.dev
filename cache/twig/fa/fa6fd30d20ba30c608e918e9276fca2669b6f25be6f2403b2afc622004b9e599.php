@@ -235,6 +235,6 @@ class __TwigTemplate_b61447e9fcd19d1e326b126c00d21652793ee1ddac5895cb783417a1f39
     {% endif %}
 </ul>
 
-", "partials/nav-quick-tray.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\nav-quick-tray.html.twig");
+", "partials/nav-quick-tray.html.twig", "C:\\wamp64\\www\\moDev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\nav-quick-tray.html.twig");
     }
 }

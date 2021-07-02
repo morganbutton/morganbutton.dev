@@ -1,0 +1,18 @@
+1625189341
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1226:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:44:"penn-state/dmdexhibitions/project-powerpoint";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:22:"Web Technology Meeting";s:8:"taxonomy";a:1:{s:3:"tag";a:2:{i:0;s:3:"psu";i:1;s:15:"DMD Exhibitions";}}s:4:"date";s:16:"16-06-2021 20:02";s:11:"media_order";s:14:"pinkvertex.jpg";}s:11:"frontmatter";s:145:"title: 'Web Technology Meeting'
+taxonomy:
+    tag:
+        - psu
+        - 'DMD Exhibitions'
+date: '16-06-2021 20:02'
+media_order: pinkvertex.jpg";s:8:"markdown";s:351:""DMD Exhibitions" PowerPoint
+
+===
+
+#Web Technology Meeting
+
+<div class="raw-html-embed">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/aX8hFVfWVWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+	</iframe>
+</div>
+";}s:7:"storage";a:6:{s:3:"key";s:44:"penn-state/dmdexhibitions/project-powerpoint";s:11:"storage_key";s:50:"02.penn-state/01.DMDExhibitions/project-powerpoint";s:8:"template";s:4:"post";s:17:"storage_timestamp";i:1625187914;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"post";i:1625187914;}}s:8:"checksum";s:32:"4fe0654c90909a617c19018cfc142bf4";}}}

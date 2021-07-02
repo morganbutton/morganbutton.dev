@@ -71,6 +71,6 @@ class __TwigTemplate_72625529ac75dc32ffc933e8577b889ddee3b3722823df9e4d937d5ef78
         <i class=\"fa fa-calendar\"></i> {{ page.date|date(system.pages.dateformat.short) }}
     </time>
 </span>
-", "partials/blog/date.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\themes\\typhoon\\templates\\partials\\blog\\date.html.twig");
+", "partials/blog/date.html.twig", "C:\\wamp64\\www\\moDev\\user\\themes\\typhoon\\templates\\partials\\blog\\date.html.twig");
     }
 }

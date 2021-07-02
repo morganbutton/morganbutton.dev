@@ -96,6 +96,6 @@ class __TwigTemplate_9f8850f083ceab8635912a200109b84b37dddcf2d0d699d77e308060b61
     {% endfor %}
   </div>
 {% endif %}
-", "partials/blog/taxonomy.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\themes\\typhoon\\templates\\partials\\blog\\taxonomy.html.twig");
+", "partials/blog/taxonomy.html.twig", "C:\\wamp64\\www\\moDev\\user\\themes\\typhoon\\templates\\partials\\blog\\taxonomy.html.twig");
     }
 }

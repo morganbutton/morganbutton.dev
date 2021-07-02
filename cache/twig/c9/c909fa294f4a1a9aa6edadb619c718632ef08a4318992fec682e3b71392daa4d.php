@@ -65,6 +65,6 @@ class __TwigTemplate_34fa395d44d4d7951ed0de828f946ea8bdc9390b3f6026f08df5059e1bf
         return new Source("<a id=\"titlebar-button-back\" class=\"button\" href=\"{{ back_url }}\" title=\"{{ \"PLUGIN_ADMIN.BACK\"|tu }}\">
     <i class=\"fa fa-reply\"></i>
 </a>
-", "flex-objects/types/pages/buttons/back.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\plugins\\flex-objects\\admin\\templates\\flex-objects\\types\\pages\\buttons\\back.html.twig");
+", "flex-objects/types/pages/buttons/back.html.twig", "C:\\wamp64\\www\\moDev\\user\\plugins\\flex-objects\\admin\\templates\\flex-objects\\types\\pages\\buttons\\back.html.twig");
     }
 }

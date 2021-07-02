@@ -296,6 +296,6 @@ class __TwigTemplate_c34be34f5fb9b5315284356c010b54106601f623036e01c8f949a5cdd31
     </div>
   </div>
 </footer>
-", "partials/footer.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\themes\\typhoon\\templates\\partials\\footer.html.twig");
+", "partials/footer.html.twig", "C:\\wamp64\\www\\moDev\\user\\themes\\typhoon\\templates\\partials\\footer.html.twig");
     }
 }

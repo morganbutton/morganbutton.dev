@@ -122,6 +122,6 @@ class __TwigTemplate_5c99f27a63269a2b3ef44eb875ba96f2f317e09621f09b76275297ca670
         </div>
     </a>
 </div>
-", "partials/nav-user-details.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\nav-user-details.html.twig");
+", "partials/nav-user-details.html.twig", "C:\\wamp64\\www\\moDev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\nav-user-details.html.twig");
     }
 }

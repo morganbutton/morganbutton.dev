@@ -93,6 +93,6 @@ class __TwigTemplate_78b6e0a45cf1c3dff3b185b1fe0d327b0e41441ea8c10186c8a162da013
         return new Source("{% for meta in page.metadata %}
     <meta {% if meta.name %}name=\"{{ meta.name|e }}\" {% endif %}{% if meta.http_equiv %}http-equiv=\"{{ meta.http_equiv|e }}\" {% endif %}{% if meta.charset %}charset=\"{{ meta.charset|e }}\" {% endif %}{% if meta.property %}property=\"{{ meta.property|e }}\" {% endif %}{% if meta.content %}content=\"{{ meta.content|raw }}\" {% endif %}/>
 {% endfor %}
-", "partials/metadata.html.twig", "C:\\wamp64\\www\\morganButton.dev\\system\\templates\\partials\\metadata.html.twig");
+", "partials/metadata.html.twig", "C:\\wamp64\\www\\moDev\\system\\templates\\partials\\metadata.html.twig");
     }
 }

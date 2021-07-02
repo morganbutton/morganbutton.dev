@@ -72,6 +72,6 @@ class __TwigTemplate_79a92d3ae128d936aed82ede50d5298fbaa5edc798be5ad820d3c8f012d
   --color-primary: #{{ primary_color.getHex }};
   --color-primary__lighter: #{{ primary_color.lighten(brightness_lighter) }};
   --color-primary__darker: #{{ primary_color.darken(brightness_darker) }};
-}", "partials/theme.css.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\themes\\typhoon\\templates\\partials\\theme.css.twig");
+}", "partials/theme.css.twig", "C:\\wamp64\\www\\moDev\\user\\themes\\typhoon\\templates\\partials\\theme.css.twig");
     }
 }

@@ -1,0 +1,62 @@
+1625792256
+a:2:{s:7:"content";s:3714:"<h2>DEFINITION</h2>
+<p>A <strong>Headless CMS</strong> in its most basic form is in charge of all media content(MP4, JPEG, etc.). A Headless CMS separates the front-end from the back end. The word “head” in Headless CMS refers to the frontend of a site aka the user interface.</p>
+<p>===</p>
+<h2>HEADLESS CMS</h2>
+<p>(forestry.io, Contentful, Strapi, etc.)</p>
+<p>Strengths:</p>
+<ul>
+<li>Consistent design across all platforms – The Content first approach allows the designer/developer to curate a consistent content experience across all platforms. This is done through the use of content “types” and templating.</li>
+<li>Speed – repetitive code can be cached one time freeing up space on the servers and or CDN.</li>
+<li>Reusability – content types, tags, metadata etc. are reused for similar content types. This allows for consistent quality content.</li>
+<li>Customizable</li>
+<li>Cost effective — no hosting</li>
+<li>Secure – less likely to be subject to JS injections. Static as opposed to database driven.</li>
+<li>Stable – If something breaks in the back end it does not affect the front end and vice versa.</li>
+<li>Content Ownership – the content is generally not contained and stored by the framework. It is stored by the user allowing for full control and ownership over content.</li>
+<li>Version Control – Static text files are committed to the GitHub repo for version control.</li>
+</ul>
+<p>Weaknesses:</p>
+<ul>
+<li>Learning curve can be tedious for non technical user.</li>
+</ul>
+<p>Opportunities:</p>
+<ul>
+<li>New technologies are making this option more appealing every year. The community seems to be moving towards headless cms so it is less likely to become outdated any time soon.</li>
+</ul>
+<p>Threats:</p>
+<ul>
+<li>May need developer assistance in the future if the CMS is too technical.</li>
+</ul>
+<h2>TRADITIONAL CMS</h2>
+<p>(WordPress, Drupal, Joomla, etc.)</p>
+<h2>DEFINITION</h2>
+<p>A <strong>Traditional CMS</strong> does everything, from the front end to the back end. A traditional CMS generally has a built in database for storing all of your media content and will embed them into the front end design.</p>
+<p>Strengths:</p>
+<ul>
+<li>Plugins for everything</li>
+<li>Ease of use – Create, Update, Delete, Preview, Publish, etc.</li>
+<li>Manage front-end and backend in same place</li>
+<li>SEO (Search Engine Optimization) is simple</li>
+<li>Cost effective – rarely need to pay a developer</li>
+<li>Large online community makes it easy to solve any issues.</li>
+<li>Many themes to choose from</li>
+</ul>
+<p>Weaknesses:</p>
+<ul>
+<li>Site maintenance – needs regular updates to stay functioning. Updates for plugins could and often times do mess with formatting and cause security issues.</li>
+<li>Formatting – Formatting is done page by page lending itself to longer load times. Additionally fixing any problems in the site may need to be done page by page as well.</li>
+<li>Website first as opposed to content first – Content is embedded into the pages which makes it harder to switch between devices (tablets, kindle, watches, tv, mobile, etc.).</li>
+<li>Slow Load time – Because of the way WordPress saves data and loads dynamic content per page upload times could be upwards of 3 to 4 seconds.</li>
+<li>Long-term stability – This is an issue because the plugins we rely on tend to lose support entirely or are not consistently updated. This could break the site and how it functions could be affected.</li>
+</ul>
+<p>Opportunities:</p>
+<ul>
+<li>Build sites quickly and easily</li>
+<li>Initial costs are usually low</li>
+</ul>
+<p>Threats:</p>
+<ul>
+<li>Heavily dependent on third party plugins</li>
+<li>Not secure: hotspot for hackers</li>
+</ul>";s:12:"content_meta";N;}

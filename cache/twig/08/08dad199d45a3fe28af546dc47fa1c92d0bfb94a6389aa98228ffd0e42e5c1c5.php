@@ -62,6 +62,6 @@ class __TwigTemplate_ad0bdffd1aa7d0e1cae00e70ab42b3e2e9be1c47838a8fe13e90c6edbef
     {
         return new Source("{% set user_avatar = admin.user.getAvatarUrl() %}
 <img src=\"{{ ('?' not in user_avatar) and (not user_avatar starts with 'data:') ? user_avatar ~ '?s=80' : user_avatar }}\" />
-", "partials/nav-user-avatar.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\nav-user-avatar.html.twig");
+", "partials/nav-user-avatar.html.twig", "C:\\wamp64\\www\\moDev\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\nav-user-avatar.html.twig");
     }
 }

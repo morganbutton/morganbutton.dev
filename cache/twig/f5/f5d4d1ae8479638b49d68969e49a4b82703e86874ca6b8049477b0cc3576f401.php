@@ -158,6 +158,6 @@ class __TwigTemplate_ca28776927501c746f8b7bc5deb48209976c5c0030ae67f8d672743e198
         'flex-objects/types/pages/list/list.html.twig'
         ] %}
 {% endblock %}
-", "flex-objects/types/pages/list.html.twig", "C:\\wamp64\\www\\morganButton.dev\\user\\plugins\\flex-objects\\admin\\templates\\flex-objects\\types\\pages\\list.html.twig");
+", "flex-objects/types/pages/list.html.twig", "C:\\wamp64\\www\\moDev\\user\\plugins\\flex-objects\\admin\\templates\\flex-objects\\types\\pages\\list.html.twig");
     }
 }

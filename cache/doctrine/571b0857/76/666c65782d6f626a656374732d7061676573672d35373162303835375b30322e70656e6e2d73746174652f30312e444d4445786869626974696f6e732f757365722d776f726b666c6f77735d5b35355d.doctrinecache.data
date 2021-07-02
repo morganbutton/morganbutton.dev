@@ -1,0 +1,10 @@
+1625189965
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":864:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:40:"penn-state/dmdexhibitions/user-workflows";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:23:"User Workflow - Student";s:8:"taxonomy";a:1:{s:3:"tag";a:2:{i:0;s:3:"psu";i:1;s:15:"DMD Exhibitions";}}s:11:"media_order";s:28:"grid.png,studentWorkflow.png";}s:11:"frontmatter";s:137:"title: 'User Workflow - Student'
+taxonomy:
+    tag:
+        - psu
+        - 'DMD Exhibitions'
+media_order: 'grid.png,studentWorkflow.png'";s:8:"markdown";s:30:"===
+
+![](studentWorkflow.png)
+";}s:7:"storage";a:6:{s:3:"key";s:40:"penn-state/dmdexhibitions/user-workflows";s:11:"storage_key";s:46:"02.penn-state/01.DMDExhibitions/user-workflows";s:8:"template";s:4:"post";s:17:"storage_timestamp";i:1625189349;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"post";i:1625189349;}}s:8:"checksum";s:32:"f450bbc438cb86b5945a65782fa88091";}}}

@@ -1,0 +1,6 @@
+1625189387
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":743:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:46:"penn-state/dmdexhibitions/user-workflows-staff";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:22:"User Workflows - Staff";s:11:"media_order";s:29:"grid.png,staffWorkflow-02.png";}s:11:"frontmatter";s:76:"title: 'User Workflows - Staff'
+media_order: 'grid.png,staffWorkflow-02.png'";s:8:"markdown";s:31:"===
+
+![](staffWorkflow-02.png)
+";}s:7:"storage";a:6:{s:3:"key";s:46:"penn-state/dmdexhibitions/user-workflows-staff";s:11:"storage_key";s:52:"02.penn-state/01.DMDExhibitions/user-workflows-staff";s:8:"template";s:4:"post";s:17:"storage_timestamp";i:1625188787;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"post";i:1625188787;}}s:8:"checksum";s:32:"7ebcf40d717f960c3826d77f310f9462";}}}

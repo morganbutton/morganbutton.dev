@@ -47,7 +47,7 @@ hero:
   display: false
   overlay: dark
   overlay_direction: right
-  alignment: right
+  alignment: center
   image: 'theme://images/headers/sea-and-sky.jpg'
   custom: '#3C4043'
   padding: 'pt-32 md:pt-40 lg:pt-48 xl:pt-56 pb-16 md:pb-20 lg:pb-24 xl:pb-32'
