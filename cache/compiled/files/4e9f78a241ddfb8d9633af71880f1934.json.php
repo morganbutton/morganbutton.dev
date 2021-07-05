@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/wamp64/www/morganButton.dev/user/data/flex/indexes/pages.json',
-    'modified' => 1625462442,
+    'modified' => 1625462918,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1625462442,
+        'timestamp' => 1625462918,
         'count' => 8,
         'index' => [
             '' => [
@@ -23,13 +23,13 @@ return [
                 'key' => 'home',
                 'storage_key' => '01.home',
                 'template' => 'default',
-                'storage_timestamp' => 1625462441,
+                'storage_timestamp' => 1625462918,
                 'markdown' => [
                     '' => [
-                        'default' => 1625462441
+                        'default' => 1625462918
                     ]
                 ],
-                'checksum' => '702b4c9b5fd5996d25bae859137a26d5'
+                'checksum' => '24a361397223cc40fe9d65f8cee2bcf3'
             ],
             '02.penn-state' => [
                 'key' => 'penn-state',
