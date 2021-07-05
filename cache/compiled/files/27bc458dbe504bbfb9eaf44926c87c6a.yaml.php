@@ -2,9 +2,9 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/wamp64/www/morganButton.dev/user/data/feed/dd0149adee203181dd8702b396fb2a9f.yaml',
-    'modified' => 1625457337,
+    'modified' => 1625462220,
     'data' => [
-        'last_checked' => 1625457337,
+        'last_checked' => 1625462220,
         'data' => [
             0 => [
                 'title' => 'Skeleton Build Automation',

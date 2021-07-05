@@ -55,23 +55,16 @@ hero:
     - '0.8'
     - '0.3'
 footer:
-  menu_enabled: true
-  menu:
-    -
-      label: 'Terms & Conditions'
-      link: '#'
-    -
-      label: 'Privacy Policy'
-      link: '#'
+  menu_enabled: false
   social_enabled: true
   social:
     -
-      network: twitter
-      link: 'https://twitter.com/getgrav'
-    -
       network: github
-      link: 'https://github.com/getgrav'
-  copyright: "[Grav](https://getgrav.org?classes=hover:text-primary,font-bold) was \n[svg-icon icon=\"code\" class=\"text-gray-700 dark:text-gray-400 w-4 h-4\"] with\n[svg-icon icon=\"heart\" class=\"text-red-700 w-4 h-4 animate-pulse\"] by \n[Trilby Media, LLC](https://trilby.media?classes=hover:text-primary,font-bold)\n"
+      link: 'https://github.com/morganbutton'
+    -
+      network: linkedin
+      link: 'https://www.linkedin.com/in/morganbutton/'
+  copyright: "\n"
 notices:
   -
     content: 'An example **critical** message that should show up on homepage only'

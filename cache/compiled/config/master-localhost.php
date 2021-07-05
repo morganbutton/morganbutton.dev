@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1625187448,
-    'checksum' => 'c57c3f925579a748b563b02344a25101',
+    'timestamp' => 1625466482,
+    'checksum' => 'c1d9b42065a7d5588a4349fc2a74c8e6',
     'files' => [
         'user/config' => [
             'media' => [
@@ -31,7 +31,7 @@ return [
             ],
             'themes/typhoon' => [
                 'file' => 'user/config/themes/typhoon.yaml',
-                'modified' => 1625183681
+                'modified' => 1625466482
             ],
             'versions' => [
                 'file' => 'user/config/versions.yaml',
@@ -220,7 +220,7 @@ return [
                     ]
                 ],
                 'footer' => [
-                    'menu_enabled' => true,
+                    'menu_enabled' => false,
                     'menu' => [
                         0 => [
                             'label' => 'Terms & Conditions',
@@ -234,18 +234,15 @@ return [
                     'social_enabled' => true,
                     'social' => [
                         0 => [
-                            'network' => 'twitter',
-                            'link' => 'https://twitter.com/getgrav'
+                            'network' => 'github',
+                            'link' => 'https://github.com/morganbutton'
                         ],
                         1 => [
-                            'network' => 'github',
-                            'link' => 'https://github.com/getgrav'
+                            'network' => 'linkedin',
+                            'link' => 'https://www.linkedin.com/in/morganbutton/'
                         ]
                     ],
-                    'copyright' => '[Grav](https://getgrav.org?classes=hover:text-primary,font-bold) was 
-[svg-icon icon="code" class="text-gray-700 dark:text-gray-400 w-4 h-4"] with
-[svg-icon icon="heart" class="text-red-700 w-4 h-4 animate-pulse"] by 
-[Trilby Media, LLC](https://trilby.media?classes=hover:text-primary,font-bold)
+                    'copyright' => '
 '
                 ],
                 'notices' => [
