@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/wamp64/www/morganButton.dev/user/pages/01.home/default.md',
-    'modified' => 1625462940,
+    'modified' => 1625465948,
     'data' => [
         'header' => [
             'title' => 'About',
@@ -25,10 +25,12 @@ media_order: starsprout.png',
         
 		<div class="column small">
 			<h2>Morgan Button</h2>
-			<h3>  Web Developer, Creative, Digital MultiMedia Design Major</h3>
+			<h3>  Web Developer, Creative</h3>
+            <h4>Penn State World Campus - Digital MultiMedia Design</h4>
 		
-			<p>I am currently a student at the Penn State World Campus and only accepting internship opportunities at the moment. If you are interested in what I have been learning lately, take a peek at the “Penn State” section of this site.</p>
-			<p>Feel free to checkout my <a href="https://www.linkedin.com/in/morganbutton/">linkedin</a> page and don\'t hesitate to add me to your network[svg-icon="affiliate" /].</p>
+			<p>I am currently a DMD student at the Penn State World Campus and I expect to graduate Fall 2022. Interested in what I have been learning, take a peek at the  <a href="https://morganbutton.dev/penn-state">Penn State</a> section of this site.</p>
+            <p><br> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ [svg-icon="affiliate" /]✧ﾟ･: *ヽ(◕ヮ◕ヽ) </p>
+			<p>Feel free to contact me via <a href="https://www.linkedin.com/in/morganbutton/">Linkedin</a> and do not hesitate to add me to your network.</p>
 		</div>
         
 		<div class="column img">
