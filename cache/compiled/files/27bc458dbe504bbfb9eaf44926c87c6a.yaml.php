@@ -2,9 +2,9 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/wamp64/www/morganButton.dev/user/data/feed/dd0149adee203181dd8702b396fb2a9f.yaml',
-    'modified' => 1625187443,
+    'modified' => 1625457337,
     'data' => [
-        'last_checked' => 1625187443,
+        'last_checked' => 1625457337,
         'data' => [
             0 => [
                 'title' => 'Skeleton Build Automation',
@@ -52,7 +52,7 @@ return [
                 'title' => 'Grav 1.7 Stable Release - Jan 19th, 2021',
                 'url' => 'https://getgrav.org/blog/grav-17-stable-jan-2021',
                 'date' => 1605720180,
-                'nicetime' => '7 months ago'
+                'nicetime' => '8 months ago'
             ],
             8 => [
                 'title' => 'Raising PHP Requirements... Again',

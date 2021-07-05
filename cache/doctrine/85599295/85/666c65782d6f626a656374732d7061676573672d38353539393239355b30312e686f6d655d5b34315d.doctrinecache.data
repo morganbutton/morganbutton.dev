@@ -1,0 +1,35 @@
+1625462865
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1467:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:12:"body_classes";s:23:"title-center title-h1h2";s:5:"admin";a:0:{}s:11:"media_order";s:14:"starsprout.png";}s:11:"frontmatter";s:79:"body_classes: 'title-center title-h1h2'
+admin: {  }
+media_order: starsprout.png";s:8:"markdown";s:865:"<style> 
+    
+ 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+    @media screen and (max-width: 740px) {
+  .img {
+    visibility: hidden;
+  }
+        .small{
+            flex:0 0 100%;
+        }
+}
+    
+
+</style>
+<div class="row">
+  <div class="column small">
+      <h2>Morgan Button</h2>
+
+      <h3>Web Developer, Creative, Digital MultiMedia Design Major</h3>
+
+<p>I am currently a student at the Penn State World Campus and only accepting internship opportunities at the moment. If you are interested in what I have been learning lately, take a peek at the “Penn State” section of this site.</p>
+
+<p>Feel free to checkout my <a href="https://www.linkedin.com/in/morganbutton/">linkedin</a> page and don't hesitate to add me to your network[svg-icon="affiliate" /].</div>
+    <div class="column img"><img src="starsprout.png" alt="Logo" ></p></div>
+</div>";}s:7:"storage";a:6:{s:3:"key";s:4:"home";s:11:"storage_key";s:7:"01.home";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1625462264;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1625462264;}}s:8:"checksum";s:32:"11730becb10d6b8f71989ff1fd6c0a29";}}}

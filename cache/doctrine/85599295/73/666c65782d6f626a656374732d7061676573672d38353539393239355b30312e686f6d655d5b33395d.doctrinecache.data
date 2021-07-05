@@ -1,0 +1,19 @@
+1625462817
+C:39:"Grav\Common\Flex\Types\Pages\PageObject":1329:{a:4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:4:"Home";s:12:"body_classes";s:23:"title-center title-h1h2";s:5:"admin";a:0:{}s:11:"media_order";s:29:"starsprout.png,starsprout.png";s:15:"wrapper_spacing";s:36:"xl:container xl:mx-auto md:px-6 px-4";}s:11:"frontmatter";s:164:"title: Home
+body_classes: 'title-center title-h1h2'
+admin: {  }
+media_order: 'starsprout.png,starsprout.png'
+wrapper_spacing: 'xl:container xl:mx-auto md:px-6 px-4'";s:8:"markdown";s:536:"[columns rule="md:w-32 lg:w-48"]
+
+#Morgan Button
+
+###Web Developer, Creative, Digital MultiMedia Design Major
+
+I am currently a student at the Penn State World Campus and only accepting internship opportunities at the moment. If you are interested in what I have been learning lately, take a peek at the “Penn State” section of this site.
+
+Feel free to checkout my [**linkedin**](https://www.linkedin.com/in/morganbutton/) page and don't hesitate to add me to your network[svg-icon="affiliate" /].
+
+.![](starsprout.png)
+
+[/columns]
+";}s:7:"storage";a:6:{s:3:"key";s:4:"home";s:11:"storage_key";s:7:"01.home";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1625458664;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1625458664;}}s:8:"checksum";s:32:"3727ec36b2204bfa6e5a83ad322e1442";}}}
