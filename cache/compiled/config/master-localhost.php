@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1625466482,
-    'checksum' => 'c1d9b42065a7d5588a4349fc2a74c8e6',
+    'timestamp' => 1625627013,
+    'checksum' => '5e29c90a349c7b155db7ecbe2f3a3fe5',
     'files' => [
         'user/config' => [
             'media' => [
@@ -23,7 +23,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1625101306
+                'modified' => 1625627003
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
@@ -1075,11 +1075,11 @@ node_modules'
             'salt' => 'l9UXfOYtaLyTem'
         ],
         'site' => [
-            'title' => 'Grav',
+            'title' => NULL,
             'default_lang' => 'en',
             'author' => [
-                'name' => 'Joe Bloggs',
-                'email' => 'joe@example.com'
+                'name' => 'Morgan Button',
+                'email' => 'divinedevoir@gmail.com'
             ],
             'taxonomies' => [
                 0 => 'tag',

@@ -2,12 +2,12 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/wamp64/www/morganButton.dev/user/config/site.yaml',
-    'modified' => 1625101306,
+    'modified' => 1625627003,
     'data' => [
-        'title' => 'Grav',
+        'title' => NULL,
         'author' => [
-            'name' => 'Joe Bloggs',
-            'email' => 'joe@example.com'
+            'name' => 'Morgan Button',
+            'email' => 'divinedevoir@gmail.com'
         ],
         'metadata' => [
             'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'

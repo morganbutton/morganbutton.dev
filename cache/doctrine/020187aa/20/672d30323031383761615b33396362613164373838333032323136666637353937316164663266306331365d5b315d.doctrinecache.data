@@ -1,0 +1,31 @@
+1626231813
+a:2:{s:7:"content";s:1717:"<div class="raw-html-embed">
+    <style>.row { display: flex; } .column { flex: 50%; } @media screen and (max-width: 740px) { .img { visibility: hidden; } .small{ flex:0 0 100%; } }</style>
+</div>
+<div class="raw-html-embed">
+    <div class="row">
+
+        <div class="column small">
+            <h2>Morgan Button</h2>
+            <h3>  Web Developer, Creative</h3>
+            <h4>Penn State World Campus - Digital MultiMedia Design</h4>
+
+            <p>I am currently a DMD student at the Penn State World Campus and I expect to graduate Fall 2022. Interested in what I have been learning, take a peek at the  <a href="https://morganbutton.dev/penn-state">Penn State</a> section of this site.</p>
+            <p><br> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-affiliate inline-block svg-icon inline-block align-middle"icon icon-tabler icon-tabler-affiliate" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M5.931 6.936l1.275 4.249m5.607 5.609l4.251 1.275" />
+  <path d="M11.683 12.317l5.759 -5.759" />
+  <circle cx="5.5" cy="5.5" r="1.5" />
+  <circle cx="18.5" cy="5.5" r="1.5" />
+  <circle cx="18.5" cy="18.5" r="1.5" />
+  <circle cx="8.5" cy="15.5" r="4.5" />
+</svg>✧ﾟ･: *ヽ(◕ヮ◕ヽ) </p>
+            <p>Feel free to contact me via <a href="https://www.linkedin.com/in/morganbutton/">Linkedin</a> and do not hesitate to add me to your network.</p>
+        </div>
+
+        <div class="column img">
+            <img alt="Logo" src="starsprout.png">
+
+        </div>
+    </div>
+</div>";s:12:"content_meta";N;}

@@ -1,7 +1,7 @@
-title: Grav
+title:
 author:
-  name: Joe Bloggs
-  email: "joe@example.com"
+  name: Morgan Button
+  email: "divinedevoir@gmail.com"
 metadata:
   description: "Grav is an easy to use, yet powerful, open source flat-file CMS"
 taxonomies: [tag, category]
